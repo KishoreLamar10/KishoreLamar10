@@ -1,11 +1,13 @@
 <div align="center"> <!-- Typing animation headline --> <a href="https://github.com/KishoreLamar10"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kishorekumar+%F0%9F%91%8B;Full-Stack+%2B+AI+Infra+Engineer;I+build+LLM+inference+engines+from+scratch;MS+CS+%40+SUNY+Buffalo;Open+to+Software+%2F+AI+Engineer+roles" alt="Typing SVG" /> </a> <br/> <img src="https://komarev.com/ghpvc/?username=KishoreLamar10&label=Profile%20Views&color=2EA3F2&style=flat" alt="profile views" /> </div>
+
 🚀 About Me
-🔭 Currently building LLM inference infrastructure — continuous batching, PagedAttention-style KV cache, from scratch
-🧠 Also engineered an agentic AI pipeline (LangGraph + Gemini) that auto-analyzes 500+ real-world buildings
-🛠️ Migrated a legacy PHP app to Next.js 15 / React 19, cutting load times by 80%
+💼 Currently working as a Software Developer at the IDEA Center, University at Buffalo — migrated a legacy PHP app to Next.js 15 / React 19, cutting load times by 80%
+🔬 Previously a Research Software Engineer at the Research Foundation at SUNY, building an agentic AI pipeline (LangGraph + Gemini) that auto-analyzes 500+ real-world buildings
+🏢 Started out as a Software Engineer at Cognizant Technology Solutions, modernizing a legacy monitoring platform used by 1,000+ daily enterprise users
 🎓 MS in Computer Science, University at Buffalo (SUNY)
 🌍 Based in Buffalo, NY — open to relocation (US + India)
 📫 Reach me: balakishore619@gmail.com | LinkedIn | Portfolio
+
 🧰 Tech Stack
 <div align="center">
 
