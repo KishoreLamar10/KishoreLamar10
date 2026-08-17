@@ -68,18 +68,8 @@
 
 ---
 
-### 📌 Side Projects
-
-<div align="center">
-
-<a href="https://github.com/KishoreLamar10/llm-inference-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishoreLamar10&repo=llm-inference-server&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/KishoreLamar10/codeIntelli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishoreLamar10&repo=codeIntelli&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+📌 Side Projects
+<div align="center"> <a href="https://github.com/KishoreLamar10/llm-inference-server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishoreLamar10&repo=llm-inference-server&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/KishoreLamar10/codeIntelli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishoreLamar10&repo=codeIntelli&theme=tokyonight&hide_border=true" /> </a> </div>
 
 ---
 
