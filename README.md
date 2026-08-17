@@ -30,7 +30,8 @@ LLM Inference Serving System — Production-grade inference server implementing 
 Codebase Intelligence Platform — Full-stack dev tool modeling GitHub repos as a Neo4j property graph for dependency mapping, security scanning, and LLM-powered semantic code search across 10,000+ files.
 
 📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KishoreLamar10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreLamar10&theme=tokyonight&hide_border=true" width="48%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreLamar10&layout=compact&theme=tokyonight&hide_border=true" width="48%" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KishoreLamar10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="48%" /> <img src="https://streak-stats.demolab.com/?user=KishoreLamar10&theme=tokyonight&hide_border=true" width="48%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreLamar10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" /> </div>
+
 <div align="center">
 💬 Let's Connect
 
