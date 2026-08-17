@@ -69,7 +69,10 @@
 ---
 
 📌 Side Projects
-<div align="center"> <a href="https://github.com/KishoreLamar10/llm-inference-server"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishoreLamar10&repo=llm-inference-server&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/KishoreLamar10/codeIntelli"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=KishoreLamar10&repo=codeIntelli&theme=tokyonight&hide_border=true" /> </a> </div>
+
+LLM Inference Serving System — Python · FastAPI · PyTorch · asyncio · Docker Production-grade inference server implementing Orca-style continuous batching and a PagedAttention-inspired block-based KV cache, built from scratch. 🔗 github.com/KishoreLamar10/llm-inference-server
+
+Codebase Intelligence Platform — React · FastAPI · Neo4j · PostgreSQL · Redis · AWS Full-stack dev tool modeling GitHub repos as a Neo4j property graph for dependency mapping, security scanning, and LLM-powered semantic code search across 10,000+ files. 🔗 github.com/KishoreLamar10/codeIntelli
 
 ---
 
